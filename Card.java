@@ -1,7 +1,4 @@
-package 프로젝트;
-
- Card.java
- public class Card {
+public class Card {
  private String rank, suit;
 
  Card(String suit, String rank) {
