@@ -644,7 +644,11 @@ public static void sleep(int time) throws InterruptedException {
 ```
 
 #
-교수님께서는 switch 문을 사용하라고 하셨다. 물론 내가 if문을 너무 좋아한다는 사실은 부정할 수 없다. 그렇기에 switch를 사용하는 방법에 대해서 고민해야겠다.
+교수님께서는 switch 문을 사용하라고 하셨다. 
+물론 내가 if문을 너무 좋아한다는 사실은 부정할 수 없다. 
+
+그렇기에 switch를 사용하는 방법에 대해서 고민해야겠다.
+
 spilt 이라고 하는 것은 무슨 규칙인지 알아봐야겠다.
 
 
